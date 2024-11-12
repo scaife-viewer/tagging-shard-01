@@ -1,0 +1,273 @@
+retractationes.1	0	Ad	ADP	preposition		ad	case	1
+retractationes.1	1	quem	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing	qui	obl	2
+retractationes.1	2	scripseram	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Act	scribo	advcl	23
+retractationes.1	3	tres	NUM	number	Case=Acc|Gender=Masc|Number=Plur	tres	nummod	4
+retractationes.1	4	libros	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	liber	obj	2
+retractationes.1	5	,	PUNCT	punc		,	punct	11
+retractationes.1	6	quorum	PRON	pronoun	Case=Gen|Gender=Masc|Number=Plur	qui	nmod	7
+retractationes.1	7	titulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	titulus	nsubj	11
+retractationes.1	8	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	11
+retractationes.1	9	De	ADP	preposition		De	case	11
+retractationes.1	10	peccatorum	NOUN	noun	Case=Gen|Gender=Neut|Number=Plur	peccatum	nmod	11
+retractationes.1	11	meritis	NOUN	noun	Case=Abl|Gender=Neut|Number=Plur	meritum	acl:relcl	4
+retractationes.1	12	et	CCONJ	conjunction		et	cc	13
+retractationes.1	13	remissione	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	remissio	conj	11
+retractationes.1	14	,	PUNCT	punc		,	punct	17
+retractationes.1	15	ubi	SCONJ	adverb		ubi	mark	17
+retractationes.1	16	diligenter	ADV	adverb		diligenter	advmod	17
+retractationes.1	17	disputatur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	disputo	acl:relcl	4
+retractationes.1	18	etiam	ADV	adverb		etiam	advmod:emph	17
+retractationes.1	19	de	ADP	preposition		de	case	20
+retractationes.1	20	baptismo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	baptismum	obl	17
+retractationes.1	21	paruulorum	ADJ	adjective	Case=Gen|Gender=Masc|Number=Plur	paruulus	nmod	20
+retractationes.1	22	,	PUNCT	punc		,	punct	2
+retractationes.1	23	rescripsit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	rescribo	ROOT	23
+retractationes.1	24	mihi	PRON	pronoun	Case=Dat|Number=Sing|Person=1	ego	obl:arg	27
+retractationes.1	25	se	PRON	pronoun	Case=Acc|Person=3	sui	nsubj	27
+retractationes.1	26	fuisse	AUX	verb	VerbForm=Inf	sum	aux:pass	27
+retractationes.1	27	permotum	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	permotus	ccomp	23
+retractationes.1	28	,	PUNCT	punc		,	punct	30
+retractationes.1	29	quod	SCONJ	pronoun		qui	mark	30
+retractationes.1	30	dixerim	VERB	verb	Mood=Sub|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	dico	advcl	23
+retractationes.1	31	fieri	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Inf|Voice=Pass	facio	xcomp	32
+retractationes.1	32	posse	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Inf|Voice=Act	possum	xcomp	30
+retractationes.1	33	,	PUNCT	punc		,	punct	38
+retractationes.1	34	ut	SCONJ	conjunction		ut	mark	38
+retractationes.1	35	sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	38
+retractationes.1	36	homo	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	homo	nsubj	38
+retractationes.1	37	sine	ADP	preposition		sine	case	38
+retractationes.1	38	peccato	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	peccatum	advcl	30
+retractationes.1	39	,	PUNCT	punc		,	punct	44
+retractationes.1	40	si	SCONJ	conjunction		si	mark	44
+retractationes.1	41	uoluntas	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	uoluntas	nsubj	44
+retractationes.1	42	eius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing|Person=3	is	nmod	41
+retractationes.1	43	non	PART	particle		non	advmod:neg	44
+retractationes.1	44	desit	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	desum	advcl	38
+retractationes.1	45	ope	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	ops	obl	44
+retractationes.1	46	adiuuante	VERB	verb	Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	adiuuans	acl	45
+retractationes.1	47	diuina	NOUN	noun	Case=Acc|Gender=Neut|Number=Plur	diuinus	obj	46
+retractationes.1	48	,	PUNCT	punc		,	punct	56
+retractationes.1	49	quamuis	SCONJ	conjunction		quamuis	mark	56
+retractationes.1	50	nemo	PRON	pronoun	Case=Nom	nemo	nsubj	56
+retractationes.1	51	tam	ADV	adverb		tam	advmod:emph	52
+retractationes.1	52	perfectae	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	perfectus	amod	53
+retractationes.1	53	iustitiae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	iustitia	nmod	50
+retractationes.1	54	in	ADP	preposition		in	case	56
+retractationes.1	55	hac	DET	adjective	Case=Abl|Gender=Fem|Number=Sing	hic	obl	56
+retractationes.1	56	uita	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	uita	advcl	44
+retractationes.1	57	uel	CCONJ	conjunction		uel	mark	56
+retractationes.1	58	fuerit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin	sum	cop	56
+retractationes.1	59	uel	CCONJ	conjunction		uel	mark	58
+retractationes.1	60	sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	56
+retractationes.1	61	uel	CCONJ	conjunction		uel	cc	62
+retractationes.1	62	futurus	AUX	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	sum	conj	60
+retractationes.1	63	sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	56
+retractationes.1	64	.	PUNCT	punc		.	punct	23
+retractationes.1	65	quaesiuit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	quaero	ROOT	65
+retractationes.1	66	enim	PART	particle		enim	discourse	65
+retractationes.1	67	,	PUNCT	punc		,	punct	69
+retractationes.1	68	quomodo	SCONJ	adverb		quomodo	advmod	69
+retractationes.1	69	dixerim	VERB	verb	Mood=Sub|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	dico	advcl	65
+retractationes.1	70	posse	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Inf|Voice=Act	possum	xcomp	69
+retractationes.1	71	fieri	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Inf|Voice=Pass	facio	xcomp	70
+retractationes.1	72	,	PUNCT	punc		,	punct	75
+retractationes.1	73	cuius	PRON	pronoun	Case=Gen|Gender=Fem|Number=Sing	qui	det	74
+retractationes.1	74	rei	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	res	nmod	75
+retractationes.1	75	desit	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	desum	acl:relcl	65
+retractationes.1	76	exemplum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	exemplum	nsubj	75
+retractationes.1	77	.	PUNCT	punc		.	punct	65
+retractationes.1	78	propter	ADP	preposition		propter	case	81
+retractationes.1	79	hanc	DET	adjective	Case=Acc|Gender=Fem|Number=Sing	hic	det	81
+retractationes.1	80	eius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing|Person=3	is	nmod	81
+retractationes.1	81	inquisitionem	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	inquisitio	obl	82
+retractationes.1	82	scripsi	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	scribo	ROOT	82
+retractationes.1	83	librum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	liber	obj	82
+retractationes.1	84	,	PUNCT	punc		,	punct	89
+retractationes.1	85	cuius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing	qui	nmod	89
+retractationes.1	86	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	89
+retractationes.1	87	titulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	titulus	nsubj	89
+retractationes.1	88	De	ADP	preposition		De	case	89
+retractationes.1	89	spiritu	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	spiritus	acl:relcl	83
+retractationes.1	90	et	CCONJ	conjunction		et	cc	91
+retractationes.1	91	littera	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	littera	conj	89
+retractationes.1	92	.	PUNCT	punc		.	punct	82
+retractationes.1	93	pertractans	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	pertractans	ROOT	93
+retractationes.1	94	apostolicam	ADJ	adjective	Case=Acc|Gender=Fem|Number=Sing	apostolicus	amod	95
+retractationes.1	95	sententiam	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	sententia	obj	93
+retractationes.1	96	,	PUNCT	punc		,	punct	98
+retractationes.1	97	ubi	SCONJ	conjunction		ubi	mark	98
+retractationes.1	98	ait	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	aio	advcl	93
+retractationes.1	99	:	PUNCT	punc		:	punct	93
+retractationes.1	100	littera	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	littera	nsubj	101
+retractationes.1	101	occidit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	occido	ROOT	101
+retractationes.1	102	,	PUNCT	punc		,	punct	105
+retractationes.1	103	spiritus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	spiritus	nsubj	105
+retractationes.1	104	autem	PART	particle		autem	discourse	105
+retractationes.1	105	uiuificat	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	uiuifico	conj	101
+retractationes.1	106	.	PUNCT	punc		.	punct	101
+retractationes.2	0	In	ADP	preposition		in	case	2
+retractationes.2	1	quo	PRON	pronoun	Case=Abl|Gender=Masc|Number=Sing	qui	det	2
+retractationes.2	2	libro	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	liber	obl	9
+retractationes.2	3	,	PUNCT	punc		,	punct	2
+retractationes.2	4	quantum	ADV	adverb		quantum	advmod:emph	6
+retractationes.2	5	deus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	deus	nsubj	6
+retractationes.2	6	adiuuit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	adiuuo	advcl	9
+retractationes.2	7	,	PUNCT	punc		,	punct	6
+retractationes.2	8	atrociter	ADV	adverb		atrociter	advmod	9
+retractationes.2	9	disputaui	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	disputo	ROOT	9
+retractationes.2	10	contra	ADP	preposition		contra	case	11
+retractationes.2	11	inimicos	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	inimicus	obl	9
+retractationes.2	12	gratiae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	gratia	nmod	11
+retractationes.2	13	dei	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	deus	nmod	12
+retractationes.2	14	,	PUNCT	punc		,	punct	16
+retractationes.2	15	qua	PRON	pronoun	Case=Abl|Gender=Fem|Number=Sing	qui	obl	16
+retractationes.2	16	iustificatur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	iustifico	acl:relcl	12
+retractationes.2	17	inpius	ADV	adverb		impius	advmod	16
+retractationes.2	18	.	PUNCT	punc		.	punct	9
+retractationes.2	19	cum	SCONJ	conjunction		cum	mark	21
+retractationes.2	20	autem	PART	particle		autem	discourse	33
+retractationes.2	21	agerem	VERB	verb	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	ago	advcl	33
+retractationes.2	22	de	ADP	preposition		de	case	23
+retractationes.2	23	obseruationibus	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	obseruatio	obl	21
+retractationes.2	24	Iudaeorum	ADJ	adjective	Case=Gen|Gender=Masc|Number=Plur	Iudaei	nmod	23
+retractationes.2	25	a	ADP	preposition		ab	case	27
+retractationes.2	26	quibusdam	DET	adjective	Case=Abl|Gender=Fem|Number=Plur	quidam	det	27
+retractationes.2	27	escis	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	esca	obl:arg	31
+retractationes.2	28	secundum	ADP	preposition		secundum	case	30
+retractationes.2	29	ueterem	DET	adjective	Case=Acc|Gender=Fem|Number=Sing	ueter	amod	30
+retractationes.2	30	legem	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	lex	obl	31
+retractationes.2	31	abstinentium	VERB	verb	Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	abstineo	acl	23
+retractationes.2	32	,	PUNCT	punc		,	punct	21
+retractationes.2	33	dixi	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	dico	ROOT	33
+retractationes.2	34	:	PUNCT	punc		:	punct	33
+retractationes.2	35	quarundam	DET	adjective	Case=Gen|Gender=Fem|Number=Plur	quidam	det	36
+retractationes.2	36	escarum	NOUN	noun	Case=Gen|Gender=Fem|Number=Plur	esca	nmod	37
+retractationes.2	37	cerem	VERB	noun	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	cero	ROOT	37
+retractationes.2	38	moniae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	monia	dep	37
+retractationes.2	39	.	PUNCT	punc		.	punct	37
+retractationes.2	40	quod	PRON	conjunction	Case=Nom|Gender=Neut|Number=Sing	quod	mark	45
+retractationes.2	41	nomen	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	nomen	nsubj	45
+retractationes.2	42	non	PART	particle		non	advmod:neg	45
+retractationes.2	43	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	45
+retractationes.2	44	in	ADP	preposition		in	case	45
+retractationes.2	45	usu	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	usus	ROOT	45
+retractationes.2	46	sanctarum	ADJ	verb	Case=Gen|Gender=Fem|Number=Plur	sanctus	amod	47
+retractationes.2	47	litterarum	NOUN	noun	Case=Gen|Gender=Fem|Number=Plur	littera	nmod	45
+retractationes.2	48	.	PUNCT	punc		.	punct	45
+retractationes.2	49	ideo	ADV	adverb		ideo	advmod	53
+retractationes.2	50	tamen	ADV	adverb		tamen	advmod	53
+retractationes.2	51	mihi	PRON	pronoun	Case=Dat|Number=Sing|Person=1	ego	obl:arg	52
+retractationes.2	52	congruens	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	congruo	csubj:pass	53
+retractationes.2	53	uisum	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	uideo	ROOT	53
+retractationes.2	54	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	53
+retractationes.2	55	,	PUNCT	punc		,	punct	64
+retractationes.2	56	quod	SCONJ	conjunction		quod	mark	64
+retractationes.2	57	a	ADP	preposition		ab	mark	58
+retractationes.2	58	carendo	VERB	verb	Case=Abl|Gender=Neut|Mood=Ger|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	careo	advcl	64
+retractationes.2	59	appellatas	VERB	verb	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	appello	acl	60
+retractationes.2	60	ceremonias	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	ceremonia	obj	64
+retractationes.2	61	quasi	ADV	adverb		quasi	advmod	62
+retractationes.2	62	carimonias	NOUN	adjective	Case=Acc|Gender=Fem|Number=Plur	carimonius	obj	64
+retractationes.2	63	memoria	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	memoria	obl	64
+retractationes.2	64	tenebam	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	teneo	acl	53
+retractationes.2	65	eo	PRON	pronoun	Case=Abl|Gender=Masc|Number=Sing|Person=3	is	dep	64
+retractationes.2	66	,	PUNCT	punc		,	punct	69
+retractationes.2	67	quod	SCONJ	conjunction		quod	mark	69
+retractationes.2	68	obseruantes	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	obseruo	csubj	69
+retractationes.2	69	careant	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	careo	acl	53
+retractationes.2	70	his	DET	adjective	Case=Abl|Gender=Fem|Number=Plur	hic	det	71
+retractationes.2	71	rebus	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	res	obl:arg	69
+retractationes.2	72	,	PUNCT	punc		,	punct	76
+retractationes.2	73	a	ADP	preposition		ab	case	74
+retractationes.2	74	quibus	PRON	pronoun	Case=Abl|Gender=Fem|Number=Plur	qui	obl:arg	76
+retractationes.2	75	se	PRON	pronoun	Case=Acc|Person=3	sui	obj	76
+retractationes.2	76	abstinent	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	abstineo	acl:relcl	71
+retractationes.2	77	.	PUNCT	punc		.	punct	53
+retractationes.2	78	quod	SCONJ	conjunction		quod	mark	96
+retractationes.2	79	si	SCONJ	conjunction		si	mark	81
+retractationes.2	80	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	81
+retractationes.2	81	origo	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	origo	advcl	96
+retractationes.2	82	huius	DET	adjective	Case=Gen|Gender=Neut|Number=Sing	hic	det	83
+retractationes.2	83	nominis	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	nomen	nmod	81
+retractationes.2	84	,	PUNCT	punc		,	punct	86
+retractationes.2	85	quae	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing	qui	nsubj	86
+retractationes.2	86	abhorret	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	abhorreo	acl:relcl	83
+retractationes.2	87	a	ADP	preposition		ab	case	89
+retractationes.2	88	uera	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	uerus	amod	89
+retractationes.2	89	religione	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	religio	obl:arg	86
+retractationes.2	90	,	PUNCT	punc		,	punct	81
+retractationes.2	91	secundum	ADP	preposition		secundum	case	92
+retractationes.2	92	hanc	DET	adjective	Case=Acc|Gender=Fem|Number=Sing	hic	obl	96
+retractationes.2	93	ego	PRON	pronoun	Case=Nom|Number=Sing|Person=1	ego	nsubj:pass	96
+retractationes.2	94	non	PART	particle		non	advmod:neg	92
+retractationes.2	95	sum	AUX	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	sum	aux:pass	96
+retractationes.2	96	locutus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	loquor	ROOT	96
+retractationes.2	97	,	PUNCT	punc		,	punct	100
+retractationes.2	98	sed	CCONJ	conjunction		sed	cc	100
+retractationes.2	99	secundum	ADP	preposition		secundum	case	100
+retractationes.2	100	istam	DET	adjective	Case=Acc|Gender=Fem|Number=Sing	iste	conj	92
+retractationes.2	101	,	PUNCT	punc		,	punct	104
+retractationes.2	102	quam	PRON	pronoun	Case=Acc|Gender=Fem|Number=Sing	qui	obj	104
+retractationes.2	103	supra	ADV	adverb		supra	advmod	104
+retractationes.2	104	memoraui	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	memoro	acl:relcl	100
+retractationes.2	105	.	PUNCT	punc		.	punct	96
+retractationes.3	0	Hic	DET	adjective	Case=Nom|Gender=Masc|Number=Sing	hic	det	1
+retractationes.3	1	liber	NOUN	adjective	Case=Nom|Gender=Masc|Number=Sing	liber	nsubj	3
+retractationes.3	2	sic	ADV	adverb		sic	advmod	3
+retractationes.3	3	incipit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	incipio	ROOT	3
+retractationes.3	4	:	PUNCT	punc		:	punct	3
+retractationes.3	5	Lectis	VERB	verb	Case=Abl|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	Lectis	acl	16
+retractationes.3	6	opusculis	NOUN	noun	Case=Abl|Gender=Neut|Number=Plur	opusculum	nsubj:pass	5
+retractationes.3	7	,	PUNCT	punc		,	punct	12
+retractationes.3	8	quae	PRON	pronoun	Case=Acc|Gender=Neut|Number=Plur	qui	obj	12
+retractationes.3	9	ad	ADP	preposition		ad	case	10
+retractationes.3	10	te	PRON	pronoun	Case=Acc|Number=Sing|Person=2	tu	obl:arg	12
+retractationes.3	11	nuper	ADV	adverb		nuper	advmod	12
+retractationes.3	12	elaboraui	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	elaboro	acl:relcl	6
+retractationes.3	13	,	PUNCT	punc		,	punct	14
+retractationes.3	14	fili	NOUN	noun	Case=Voc|Gender=Masc|Number=Sing	filum	vocative	5
+retractationes.3	15	carissime	ADJ	adverb	Case=Voc|Gender=Masc|Number=Sing	carissimus	dep	16
+retractationes.3	16	Marcelline	PROPN	proper_noun	Case=Voc|Gender=Masc|Number=Sing	Marcellinus	vocative	26
+retractationes.3	17	.	PUNCT	punc		.	punct	16
+retractationes.3	18	13	NUM	number		13	nummod	16
+retractationes.3	19	II	NUM	number		II	nummod	20
+retractationes.3	20	Cor	ADJ	adjective		cor	nmod	16
+retractationes.3	21	.	PUNCT	punc		.	punct	20
+retractationes.3	22	3	NUM	number		3	nummod	20
+retractationes.3	23	,	PUNCT	punc		,	punct	24
+retractationes.3	24	6	NUM	number		6	conj	20
+retractationes.3	25	16	NUM	number		16	nummod	20
+retractationes.3	26	cf	NOUN	noun		cf	ROOT	26
+retractationes.3	27	.	PUNCT	punc		.	punct	26
+retractationes.3	28	Kom	NOUN	noun		cum	ROOT	28
+retractationes.3	29	.	PUNCT	punc		.	punct	28
+retractationes.3	30	4	NUM	number		4	nummod	28
+retractationes.3	31	,	PUNCT	punc		,	punct	32
+retractationes.3	32	5	NUM	number		5	conj	28
+retractationes.3	33	18	NUM	number		18	nummod	28
+retractationes.3	34	De	ADP	preposition		De	case	35
+retractationes.3	35	spir	ADJ	noun		spirus	conj	28
+retractationes.3	36	.	PUNCT	punc		.	punct	35
+retractationes.3	37	et	CCONJ	conjunction		et	cc	38
+retractationes.3	38	litt	NOUN	noun		littera	nmod	44
+retractationes.3	39	.	PUNCT	punc		.	punct	38
+retractationes.3	40	21	NUM	number		21	nummod	38
+retractationes.3	41	,	PUNCT	punc		,	punct	42
+retractationes.3	42	36	NUM	number		36	conj	38
+retractationes.3	43	Aug.	PUNCT	noun		Aug.	punct	38
+retractationes.3	44	ep	NOUN	noun		epiculus	ROOT	44
+retractationes.3	45	.	PUNCT	punc		.	punct	44
+retractationes.3	46	82,18	NUM	number		82,18	nummod	44
+retractationes.3	47	20	NUM	number		20	nummod	44
+retractationes.3	48	cf	ADV	noun		cf	conj	44
+retractationes.3	49	.	PUNCT	punc		.	punct	48
+retractationes.3	50	Gell	ADJ	noun		Gellus	ROOT	50
+retractationes.3	51	.	PUNCT	punc		.	punct	50
+retractationes.3	52	Xoct	ADJ	adjective		Xoct	ROOT	52
+retractationes.3	53	.	PUNCT	punc		.	punct	52
+retractationes.3	54	Att	NOUN	noun		Att	ROOT	54
+retractationes.3	55	.	PUNCT	punc		.	punct	54
+retractationes.3	56	IV	NUM	number		IV	ROOT	56
+retractationes.3	57	9	NUM	number		9	nummod	56
+retractationes.3	58	,	PUNCT	punc		,	punct	59
+retractationes.3	59	8	PUNCT	number		8	conj	56
